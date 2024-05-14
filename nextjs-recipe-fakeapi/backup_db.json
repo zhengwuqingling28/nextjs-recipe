@@ -1,0 +1,67 @@
+{
+  "meals": [
+    {
+      "title": "Juicy Cheese Burger",
+      "slug": "juicy-cheese-burger",
+      "image": "/image/burger.jpg",
+      "summary": "A mouth-watering burger with a juicy beef patty and melted cheese, served in a soft bun.",
+      "instructions": "1. Prepare the patty:\r\n           Mix 200g of ground beef with salt and pepper. Form into a patty.\r\n  \r\n        2. Cook the patty:\r\n           Heat a pan with a bit of oil. Cook the patty for 2-3 minutes each side, until browned.\r\n  \r\n        3. Assemble the burger:\r\n           Toast the burger bun halves. Place lettuce and tomato on the bottom half. Add the cooked patty and top with a slice of cheese.\r\n  \r\n        4. Serve:\r\n           Complete the assembly with the top bun and serve hot.",
+      "creator": "John Doe",
+      "creator_email": "johndoe/srcexample.com"
+    },
+    {
+      "title": "Spicy Curry",
+      "slug": "spicy-curry",
+      "image": "/image/curry.jpg",
+      "summary": "A rich and spicy curry, infused with exotic spices and creamy coconut milk.",
+      "instructions": "1. Chop vegetables:\r\n           Cut your choice of vegetables into bite-sized pieces.\r\n  \r\n        2. Sauté vegetables:\r\n           In a pan with oil, sauté the vegetables until they start to soften.\r\n  \r\n        3. Add curry paste:\r\n           Stir in 2 tablespoons of curry paste and cook for another minute.\r\n  \r\n        4. Simmer with coconut milk:\r\n           Pour in 500ml of coconut milk and bring to a simmer. Let it cook for about 15 minutes.\r\n  \r\n        5. Serve:\r\n           Enjoy this creamy curry with rice or bread.",
+      "creator": "Max Schwarz",
+      "creator_email": "max/srcexample.com"
+    },
+    {
+      "title": "Homemade Dumplings",
+      "slug": "homemade-dumplings",
+      "image": "/image/dumplings.jpg",
+      "summary": "Tender dumplings filled with savory meat and vegetables, steamed to perfection.",
+      "instructions": "1. Prepare the filling:\r\n           Mix minced meat, shredded vegetables, and spices.\r\n  \r\n        2. Fill the dumplings:\r\n           Place a spoonful of filling in the center of each dumpling wrapper. Wet the edges and fold to seal.\r\n  \r\n        3. Steam the dumplings:\r\n           Arrange dumplings in a steamer. Steam for about 10 minutes.\r\n  \r\n        4. Serve:\r\n           Enjoy these dumplings hot, with a dipping sauce of your choice.",
+      "creator": "Emily Chen",
+      "creator_email": "emilychen/srcexample.com"
+    },
+    {
+      "title": "Classic Mac n Cheese",
+      "slug": "classic-mac-n-cheese",
+      "image": "/image/macncheese.jpg",
+      "summary": "Creamy and cheesy macaroni, a comforting classic that's always a crowd-pleaser.",
+      "instructions": "1. Cook the macaroni:\r\n           Boil macaroni according to package instructions until al dente.\r\n  \r\n        2. Prepare cheese sauce:\r\n           In a saucepan, melt butter, add flour, and gradually whisk in milk until thickened. Stir in grated cheese until melted.\r\n  \r\n        3. Combine:\r\n           Mix the cheese sauce with the drained macaroni.\r\n  \r\n        4. Bake:\r\n           Transfer to a baking dish, top with breadcrumbs, and bake until golden.\r\n  \r\n        5. Serve:\r\n           Serve hot, garnished with parsley if desired.",
+      "creator": "Laura Smith",
+      "creator_email": "laurasmith/srcexample.com"
+    },
+    {
+      "title": "Authentic Pizza",
+      "slug": "authentic-pizza",
+      "image": "/image/pizza.jpg",
+      "summary": "Hand-tossed pizza with a tangy tomato sauce, fresh toppings, and melted cheese.",
+      "instructions": "1. Prepare the dough:\r\n           Knead pizza dough and let it rise until doubled in size.\r\n  \r\n        2. Shape and add toppings:\r\n           Roll out the dough, spread tomato sauce, and add your favorite toppings and cheese.\r\n  \r\n        3. Bake the pizza:\r\n           Bake in a preheated oven at 220°C for about 15-20 minutes.\r\n  \r\n        4. Serve:\r\n           Slice hot and enjoy with a sprinkle of basil leaves.",
+      "creator": "Mario Rossi",
+      "creator_email": "mariorossi/srcexample.com"
+    },
+    {
+      "title": "Wiener Schnitzel",
+      "slug": "wiener-schnitzel",
+      "image": "/image/schnitzel.jpg",
+      "summary": "Crispy, golden-brown breaded veal cutlet, a classic Austrian dish.",
+      "instructions": "1. Prepare the veal:\r\n           Pound veal cutlets to an even thickness.\r\n  \r\n        2. Bread the veal:\r\n           Coat each cutlet in flour, dip in beaten eggs, and then in breadcrumbs.\r\n  \r\n        3. Fry the schnitzel:\r\n        Heat oil in a pan and fry each schnitzel until golden brown on both sides.\r\n  \r\n        4. Serve:\r\n        Serve hot with a slice of lemon and a side of potato salad or greens.",
+      "creator": "Franz Huber",
+      "creator_email": "franzhuber/srcexample.com"
+    },
+    {
+      "title": "Fresh Tomato Salad",
+      "slug": "fresh-tomato-salad",
+      "image": "/image/tomato-salad.jpg",
+      "summary": "A light and refreshing salad with ripe tomatoes, fresh basil, and a tangy vinaigrette.",
+      "instructions": "1. Prepare the tomatoes:\r\n          Slice fresh tomatoes and arrange them on a plate.\r\n      \r\n        2. Add herbs and seasoning:\r\n           Sprinkle chopped basil, salt, and pepper over the tomatoes.\r\n      \r\n        3. Dress the salad:\r\n           Drizzle with olive oil and balsamic vinegar.\r\n      \r\n        4. Serve:\r\n           Enjoy this simple, flavorful salad as a side dish or light meal.",
+      "creator": "Sophia Green",
+      "creator_email": "sophiagreen/srcexample.com"
+    }
+  ]
+}
